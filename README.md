@@ -1,2 +1,2 @@
-# Oracle WebLogic 12cR2
-## Create Domain with Silent Mode
+# Oracle WebLogic 12c R2
+This paper include contents about how to create a domain using silent mode.
